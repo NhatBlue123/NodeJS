@@ -1,0 +1,4 @@
+My favorite most programing language is: Java,C++,JavaScript
+and databases I know : MySQL,SQLServe
+The frameworks I usually use is: Node.js,ReactJS,Tailwind.
+
