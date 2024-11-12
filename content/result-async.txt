@@ -1,0 +1,6 @@
+Here is result Hello my name is Nhat.
+Was born 2004 and software engineering at Duy Tan University. AND My favorite most programing language is: Java,C++,JavaScript
+and databases I know : MySQL,SQLServe
+The frameworks I usually use is: Node.js,ReactJS,Tailwind.
+
+ 
